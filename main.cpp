@@ -1,7 +1,8 @@
 #include <iostream>
 #include "calc.h"
 
-int main(int argc, char** argv){
-    _help();
+int main(int argc, char **argv)
+{
+    _start(argc, argv);
     return 0;
 }

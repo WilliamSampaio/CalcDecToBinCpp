@@ -5,6 +5,6 @@
 void _help();
 void _start(int, char **);
 void _dec2bin(int, bool);
-int _bin2dec(int);
+void _bin2dec(std::string);
 
 #endif
